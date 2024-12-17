@@ -1,0 +1,13 @@
+{
+  "name": "javascriptassignment",
+  "version": "1.0.0",
+  "description": "We are doing Javascript Assignment here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  
+  },
+  "author": "Emmanuel Arinze",
+  "license": "ISC"
+}
